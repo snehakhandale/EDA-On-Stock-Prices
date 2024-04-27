@@ -1,7 +1,9 @@
 ### Stock Prices Analysis
 
 ### Overview
-This project comprises Python scripts for analyzing historical stock price data. It involves data cleaning, transformation, visualization, and analysis to derive insights from the dataset. The dataset typically includes columns such as date, high, low, open, close, adjusted close, and volume.
+This project comprises Python scripts for analyzing historical stock price data. 
+It involves data cleaning, transformation, visualization, and analysis to derive insights from the dataset. 
+The dataset typically includes columns such as date, high, low, open, close, adjusted close, and volume.
 
 ### Features
 Data Transformation: Convert date columns to datetime format, calculate differences between columns for analysis.
